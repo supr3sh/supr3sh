@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working at **Equilend**
 
-- 🌱 I’m currently learning **Spring, SQL**
+- 🌱 I’m currently learning **SpringBoot, Java EE, Python tooling/automation**
+
+- 🧠 Interested in learning **AI Integration, Distributed Systems, New Tech**
 
 - 📫 How to reach me **msupresh31@gmail.com**
 
